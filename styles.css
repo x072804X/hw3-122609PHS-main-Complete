@@ -1,0 +1,12 @@
+body {
+    font-size: 15px; 
+    background-color: aliceblue; /* Low contrast background color */
+    font-family: 'Brush Script MT', cursive, , 'Times New Roman', Times, Georgia ; /* Non-standard font */
+}
+a {
+    color:blue;
+    text-decoration: none;
+}
+.hidden {
+    display: none; 
+}
